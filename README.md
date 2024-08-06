@@ -6,7 +6,9 @@ This repository contains a collection of various data structures and algorithm f
 
 This section includes implementations of various data structures. For detailed explanations and usage instructions, please refer to the respective links.
 
-- [Array]()
+- [Array List]()
+- [Linked List]()
+
 
 ## Algorithms
 
