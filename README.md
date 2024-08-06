@@ -13,11 +13,3 @@ This section includes implementations of various data structures. For detailed e
 This section includes implementations of various algorithms. For detailed explanations and usage instructions, please refer to the respective links.
 
 
-
-## Contributing
-
-If you would like to contribute, please refer to [CONTRIBUTING.md](./CONTRIBUTING.md). Contributions are always welcome!
-
-## License
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](./LICENSE) file.
