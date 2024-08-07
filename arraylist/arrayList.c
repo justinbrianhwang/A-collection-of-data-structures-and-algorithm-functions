@@ -46,7 +46,7 @@ int searchElement(ArrayList* list, Data data) {
             return i;
         }
     }
-    return -1;  // ¿ä¼Ò¸¦ Ã£Áö ¸øÇÑ °æ¿ì
+    return -1;  // Â¿Ã¤Â¼Ã’Â¸Â¦ ÃƒÂ£ÃÃ¶ Â¸Ã¸Ã‡Ã‘ Â°Ã¦Â¿Ã¬
 }
 void printArrayList(ArrayList* list) {
     for (int i = 0; i < list->size; i++) {
