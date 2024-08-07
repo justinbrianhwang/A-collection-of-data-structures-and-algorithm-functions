@@ -8,6 +8,7 @@ This section includes implementations of various data structures. For detailed e
 
 - [Array List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/arraylist)
 - [Linked List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/linked%20list)
+- [Doubly Linked List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/Doubly%20LinkedList)
 
 
 ## Algorithms
