@@ -14,17 +14,17 @@ and leave the usage method for each function.
 I think it would be good if you use it appropriately.
 
 Korean
-ÀÌ Çì´õ ÆÄÀÏÀº ¿¬°á¸®½ºÆ® ÇÔ¼ö¸¦ Á¤¸®ÇÑ Çì´õÆÄÀÏÀÔ´Ï´Ù. 
-ÀÌ¸¦ ÀÌ¿ëÇÏ½Ã·Á¸é, ÃâÃ³¸¦ ¹àÇô¼­, ÄÚµå¸¦ ÀÛ¼ºÇÏ½Ã°í, 
-°¢ ÇÔ¼öº°·Î »ç¿ë¹æ¹ýµµ ³²°å½À´Ï´Ù. 
-ÀÌ¸¦ ÀûÀýÈ÷ Àß »ç¿ëÇÏ½Ã¸é ÁÁÀ» °Í °°½À´Ï´Ù.
+ì´ í—¤ë” íŒŒì¼ì€ ì—°ê²°ë¦¬ìŠ¤íŠ¸ í•¨ìˆ˜ë¥¼ ì •ë¦¬í•œ í—¤ë”íŒŒì¼ìž…ë‹ˆë‹¤. 
+ì´ë¥¼ ì´ìš©í•˜ì‹œë ¤ë©´, ì¶œì²˜ë¥¼ ë°í˜€ì„œ, ì½”ë“œë¥¼ ìž‘ì„±í•˜ì‹œê³ , 
+ê° í•¨ìˆ˜ë³„ë¡œ ì‚¬ìš©ë°©ë²•ë„ ë‚¨ê²¼ìŠµë‹ˆë‹¤. 
+ì´ë¥¼ ì ì ˆížˆ ìž˜ ì‚¬ìš©í•˜ì‹œë©´ ì¢‹ì„ ê²ƒ ê°™ìŠµë‹ˆë‹¤.
 */
 
 
 // Data characteristics
 /*
 You can change this to any variable other than an integer. I wrote it as an integer for convenience.
-ÀÌ´Â Á¤¼öÇü º¯¼ö°¡ ¾Æ´Ñ ´Ù¸¥ º¯¼öµé·Î ¾Ë¾Æ¼­ ¹Ù²Ù½Ã¸é µË´Ï´Ù. Àú´Â ÆíÀÇ¸¦ À§ÇØ Á¤¼öÇüÀ¸·Î ÀÛ¼ºÇß½À´Ï´Ù.
+ì´ëŠ” ì •ìˆ˜í˜• ë³€ìˆ˜ê°€ ì•„ë‹Œ ë‹¤ë¥¸ ë³€ìˆ˜ë“¤ë¡œ ì•Œì•„ì„œ ë°”ê¾¸ì‹œë©´ ë©ë‹ˆë‹¤. ì €ëŠ” íŽ¸ì˜ë¥¼ ìœ„í•´ ì •ìˆ˜í˜•ìœ¼ë¡œ ìž‘ì„±í–ˆìŠµë‹ˆë‹¤.
 */
 
 typedef int Data; 
