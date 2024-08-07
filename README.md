@@ -6,7 +6,7 @@ This repository contains a collection of various data structures and algorithm f
 
 This section includes implementations of various data structures. For detailed explanations and usage instructions, please refer to the respective links.
 
-- [Array List]()
+- [Array List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/arraylist)
 - [Linked List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/linked%20list)
 
 
